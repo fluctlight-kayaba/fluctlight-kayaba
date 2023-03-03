@@ -1,4 +1,4 @@
-**Hi, I'm Fluctlight Kayaba**
+**Hi, I'm an Alias 👋**
 
 ```Typescript
 export const aboutMe = (alias = 'Fluctlight Kayaba'): Me => ({
