@@ -4,7 +4,7 @@
 export const aboutMe = (alias = 'Fluctlight Kayaba'): Me => ({
   name: alias,
   describe: "hype-driven sapien",
-  code: ["Typescript/Node.js", "Rust", "Elixir"],
+  code: ["Typescript/Node.js", "Rust", "Zig", "Nim", "Elixir"],
   interested: "writing: write software, write game, write novel, write song (intention, would be never happen)",
   hobbies: ["code", "game", "novel", "music", "talk".repeat(Number.MAX_SAFE_INTEGER)],
 });
