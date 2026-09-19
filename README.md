@@ -16,6 +16,8 @@ export interface Me {
   intestested: string;
   hobbies: string[];
 }
+
+/* you think this is TypeScript? no, this is metascriptlang.org */
 ```
 
 <!--
