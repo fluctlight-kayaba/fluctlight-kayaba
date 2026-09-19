@@ -1,4 +1,4 @@
-**Hi, This is Cloud Le 👋**
+**Hi, this is Cloud Le 👋**
 
 ```Typescript
 export const aboutMe = (alias = 'Fluctlight Kayaba'): Me => ({
